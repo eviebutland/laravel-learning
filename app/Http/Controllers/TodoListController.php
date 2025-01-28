@@ -17,7 +17,7 @@ class TodoListController extends Controller
     }
 
     public function getItems() {
-
+        // TODO: Change to use inertia
 
         return view('welcome', ['listItems' => ListItem::all()]);
         // Log::info(json_encode($request->all()));
