@@ -1,5 +1,5 @@
 <?php
-
+// when a HTTP request happens, it goes here?
 use Illuminate\Foundation\Application;
 use Illuminate\Foundation\Configuration\Exceptions;
 use Illuminate\Foundation\Configuration\Middleware;

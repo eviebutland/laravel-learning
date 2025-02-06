@@ -1,5 +1,5 @@
 <?php
-
+// This is the entry point for laravel 
 use Illuminate\Http\Request;
 
 define('LARAVEL_START', microtime(true));
